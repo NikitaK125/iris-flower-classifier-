@@ -1,0 +1,6 @@
+{
+  "name": "Iris Flower Classifier",
+  "description": "An interactive machine learning and AI-powered simulator that classifies Iris flowers using classic algorithms (K-Nearest Neighbors and Decision Trees) alongside Gemini AI botanical expertise.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
